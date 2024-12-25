@@ -1,5 +1,3 @@
-package Matrices;
-
 public class SetMatrixZero {
     class Solution {
         public void setZeroes(int[][] matrix) {

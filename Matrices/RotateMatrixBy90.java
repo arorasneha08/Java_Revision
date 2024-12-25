@@ -1,4 +1,4 @@
-package Matrices;
+
 public class RotateMatrixBy90 {
     class Solution {
         void rotateMatrix(int arr[][], int n) {

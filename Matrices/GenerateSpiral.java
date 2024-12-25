@@ -1,5 +1,3 @@
-package Matrices;
-
 public class GenerateSpiral {
     class Solution {
         public int[][] generateMatrix(int n) {

@@ -62,6 +62,9 @@ public class RepeatingMissingNum {
         
         
     }
+
+
+    
     class Solution {
         public int[] findErrorNums(int[] nums) {
             int n = nums.length ;

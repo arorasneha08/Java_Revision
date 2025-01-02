@@ -19,7 +19,6 @@ public class FindSmallestDivisorThreshold {
             return (sum <= thres); 
         }
         public int smallestDivisor(int[] nums, int threshold) {
-            int n = nums.length; 
             int start = 1 ;
             int end = max(nums) ; 
             int ans = -1 ; 

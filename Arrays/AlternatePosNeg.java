@@ -1,4 +1,4 @@
-class Solution {
+class AlternatePosNeg {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length ;
         int ans[] = new int[nums.length];

@@ -17,7 +17,6 @@ public class KokoEatingBananas {
             return totalhrs ; 
         }
         public int minEatingSpeed(int[] piles, int h) {
-            int n = piles.length ;
             int start = 1 ;
             int end = max(piles);
             int ans = 0; 

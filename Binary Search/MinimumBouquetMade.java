@@ -32,7 +32,6 @@ public class MinimumBouquetMade {
             return false; 
         }
         public int minDays(int[] bloomDay, int m, int k) {
-            int n = bloomDay.length ; 
             int start = 1 ; 
             int end = max(bloomDay) ; 
             int ans = -1; 

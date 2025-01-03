@@ -1,5 +1,3 @@
-import java.util.* ;
-import java.io.*; 
 public class FractionNumberToBinary {
 public class Solution {
 	public static String toBinaryCalculator(double num) {
